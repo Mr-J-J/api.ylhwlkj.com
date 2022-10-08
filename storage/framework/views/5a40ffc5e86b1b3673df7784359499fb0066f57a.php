@@ -1,0 +1,1 @@
+<!--No sidebar--><?php /**PATH F:\wwwroot\moviestickets\webroot\vendor\ichynul\iframe-tabs\src/../resources/views/content/partials/sidebar.blade.php ENDPATH**/ ?>

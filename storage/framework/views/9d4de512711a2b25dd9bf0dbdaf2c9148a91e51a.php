@@ -1,0 +1,1 @@
+<!--No header--><?php /**PATH F:\wwwroot\moviestickets\webroot\vendor\ichynul\iframe-tabs\src/../resources/views/content/partials/header.blade.php ENDPATH**/ ?>
